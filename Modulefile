@@ -1,0 +1,8 @@
+name 'wirbelsturm-yumrepos'
+version '1.0.0'
+source 'https://github.com/miguno/puppet-wirbelsturm_yumrepos.git'
+author 'Michael G. Noll'
+license 'Apache License, Version 2.0'
+summary 'Module for managing and configuring yum repositories used by Wirbelsturm'
+description 'Module for managing and configuring yum repositories used by Wirbelsturm'
+project_page 'https://github.com/miguno/puppet-wirbelsturm_yumrepos'
