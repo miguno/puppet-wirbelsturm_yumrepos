@@ -1,4 +1,4 @@
-name 'wirbelsturm-yumrepos'
+name 'wirbelsturm-wirbelsturm_yumrepos'
 version '1.0.0'
 source 'https://github.com/miguno/puppet-wirbelsturm_yumrepos.git'
 author 'Michael G. Noll'
